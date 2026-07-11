@@ -1,6 +1,7 @@
-#EXTM3U x-tvg-url="http://103.180.212.191:3500/epg.xml.gz"
+#EXTM3U 
+
 #EXTINF:-1 tvg-id="3115" tvg-name="Jay Jagannath" tvg-logo="http://103.180.212.191:3500/jtvimage/Jay_Jagannath.png" tvg-language="Odia" tvg-type="Devotional" group-title="Devotional", Jay Jagannath
-http://103.180.212.191:3500/live/3115.m3u81
+http://103.180.212.191:3500/live/3115.m3u8
 
 
 #EXTINF:-1 tvg-id="1956" tvg-name="Sidharth TV" tvg-logo="http://103.180.212.191:3500/jtvimage/Sidharth_TV.png" tvg-language="Odia" tvg-type="Entertainment" group-title="Entertainment", Sidharth TV
