@@ -1,6 +1,4 @@
-#EXTM3U
-
-
+#EXTM3U x-tvg-url="http://103.180.212.191:3500/epg.xml.gz"
 #EXTINF:-1 tvg-id="3115" tvg-name="Jay Jagannath" tvg-logo="http://103.180.212.191:3500/jtvimage/Jay_Jagannath.png" tvg-language="Odia" tvg-type="Devotional" group-title="Devotional", Jay Jagannath
 http://103.180.212.191:3500/live/3115.m3u81
 
