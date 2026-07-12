@@ -1,7 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="3115" tvg-name="Jay Jagannath" tvg-logo="http://103.180.212.191:3500/jtvimage/Jay_Jagannath.png" tvg-language="Odia" tvg-type="Devotional" group-title="Devotional", Jay Jagannath
-http://103.180.212.191:3500/live/3115.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.cply.dpdns.org/key?id=3115
+#EXTHTTP:{"cookie":"__hdnea__=st=1783845051~exp=1783866651~acl=/bpk-tv/Jay_Jagannath_BTS/WDVLive/*~hmac=178186e3583db6511cde6a54f4417d41c7021e26468abbc9547cc8ad1aab872a"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#EXTINF:-1 tvg-id="3115" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jay_Jagannath.png" group-title="Odia" tvg-name="Jay Jagannath",Jay Jagannath
+https://jiotvpllive.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/WDVLive/index.mpd
 
 
 #EXTINF:-1 tvg-id="1956" tvg-name="Sidharth TV" tvg-logo="http://103.180.212.191:3500/jtvimage/Sidharth_TV.png" tvg-language="Odia" tvg-type="Entertainment" group-title="Entertainment", Sidharth TV
@@ -16,8 +21,13 @@ http://103.180.212.191:3500/live/1957.m3u8
 http://103.180.212.191:3500/live/1958.m3u8
 
 
-#EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="http://103.180.212.191:3500/jtvimage/Star_Kiran.png" tvg-language="Odia" tvg-type="Entertainment" group-title="Entertainment", Star Kiran
-http://103.180.212.191:3500/live/3267.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.cply.dpdns.org/key?id=3267
+#EXTHTTP:{"cookie":"__hdnea__=st=1783845051~exp=1783866651~acl=/bpk-tv/Star_Kiran_BTS/WDVLive/*~hmac=7b6739a9f023ce56a01b852adac95aa7e68ace641825becd9c25fd7b3bbd4a29"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#EXTINF:-1 tvg-id="3267" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png" group-title="Odia" tvg-name="Star Kiran",Star Kiran
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Kiran_BTS/WDVLive/index.mpd
 
 
 #EXTINF:-1 tvg-id="718" tvg-name="Kanak News" tvg-logo="http://103.180.212.191:3500/jtvimage/Kanak_TV.png" tvg-language="Odia" tvg-type="News" group-title="News", Kanak News
@@ -38,8 +48,13 @@ http://103.180.212.191:3500/live/1692.m3u8
 http://103.180.212.191:3500/live/631.m3u8
 
 
-#EXTINF:-1 tvg-id="631" tvg-name="Zee Sarthak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png" tvg-language="Odia" tvg-type="News" group-title="News", Zee Sarthak
-http://103.180.212.191:3500/live/863.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.cply.dpdns.org/key?id=722
+#EXTHTTP:{"cookie":"__hdnea__=st=1783845051~exp=1783866651~acl=/bpk-tv/ZeeSarthak_BTS/WDVLive/*~hmac=408d667874fcfeda5e1e02006bd880aa5f9287a0b00f6bb8e8aa35acab73a6e1"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#EXTINF:-1 tvg-id="722" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia" tvg-name="Zee Sarthak",Zee Sarthak
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeSarthak_BTS/WDVLive/index.mpd
 
 
 #EXTINF:-1 tvg-id="1427" tvg-name="Nandighosha" tvg-logo="http://103.180.212.191:3500/jtvimage/Nandighosha.png" tvg-language="Odia" tvg-type="News" group-title="News", Nandighosha
@@ -90,3 +105,4 @@ https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
 https://live.ekamraott.com/bharat/bharat/index.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/rRG2TtXt/Screenshot-2026-01-30-194943.png",Kalinga Bharat
 https://live.ekamraott.com/citymusic/citymusic/video.m3u8
+
