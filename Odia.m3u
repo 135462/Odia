@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U
+## SCRIPT VERSION: 4.5.0 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -105,4 +106,3 @@ https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
 https://live.ekamraott.com/bharat/bharat/index.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/rRG2TtXt/Screenshot-2026-01-30-194943.png",Kalinga Bharat
 https://live.ekamraott.com/citymusic/citymusic/video.m3u8
-
