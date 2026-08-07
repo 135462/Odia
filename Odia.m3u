@@ -1,8 +1,13 @@
 #EXTM3U
-## SCRIPT VERSION: 4.5.0 
 
-#EXTINF:-1 tvg-id="3115" tvg-name="Jay Jagannath" tvg-logo="http://103.180.212.191:3500/jtvimage/Jay_Jagannath.png" tvg-language="Odia" tvg-type="Devotional" group-title="Devotional", Jay Jagannath
-http://103.180.212.191:3500/live/3115.m3u8
+
+#EXTINF:-1 tvg-id="3115" tvg-name="Jay Jagannath" tvg-logo="https://img.media.jio.com/imagespublic/96/65/301809_1727708174670_p_medium.jpg" group-title="Spiritual",Jay Jagannath
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ziotvplus.yowaimo.in/license/3115/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv
+#EXTHTTP:{"cookie":"__hdnea__=st=1786049733~exp=1786071333~acl=/bpk-tv/Jay_Jagannath_BTS/WDVLive/*~hmac=45da116eabe1e2e91efe4d23d0155ab5cd8fa6d56fe84a47cdabce8f0358a0c7"}
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/WDVLive/index.mpd
 
 
 #EXTINF:-1 tvg-id="1956" tvg-name="Sidharth TV" tvg-logo="http://103.180.212.191:3500/jtvimage/Sidharth_TV.png" tvg-language="Odia" tvg-type="Entertainment" group-title="Entertainment", Sidharth TV
