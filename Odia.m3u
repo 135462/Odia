@@ -49,8 +49,8 @@ https://stream.kliv.in/ROPX/opp4/381244.m3u8
 https://m3u.cloudplay.qzz.io/z5/0-9-sarthaktv.m3u8
 
 
-#EXTINF:-1 tvg-id="1427" tvg-name="Nandighosha" tvg-logo="http://103.180.212.191:3500/jtvimage/Nandighosha.png" tvg-language="Odia" tvg-type="News" group-title="News", Nandighosha
-https://stream.kliv.in/ROPX/opp4/381252.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/CrEXobf.jpg",Nandighosha TV
+https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 
 
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/jZ3yYCyr/Prarthana-Life.png",Prarthana TV
