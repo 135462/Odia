@@ -1,11 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jay_Jagannath.png",Jay Jagannath
+http://103.204.171.43:5682/JioTv-main/JioTv-main/live.php?id=3115&token=JITENDRA_KUMAR&e=.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/jZ3yYCyr/Prarthana-Life.png",Prarthana TV
 https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/Df7tfrbW/Odisha-TV-logo-svg.png",OTV Live
 https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Odia_NW18.png",New18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sidharth-TV.png",SIDHARTH TV
+http://xcv70.fyi/live/T4S00949/261266/381251.ts
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Sidharth_Gold.jpg/revision/latest?cb=20200905140947",Sidharth Gold
+http://xcv70.fyi/live/T4S00949/261266/381248.ts
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/S_Bhakti.jpg/revision/latest?cb=20200907191449",Sidharth Bhakti
+http://xcv70.fyi/live/T4S00949/261266/381260.ts
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/Qvf7T53G/TARANG-TV.jpg",Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/8D6dy7sH/Alankar.webp",Alankar TV
