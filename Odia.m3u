@@ -1,6 +1,6 @@
 #EXTM3U
-
-{
+[
+  {
     "id": "3115",
     "key": "417cb4b124ad28ceb1fe6a0d7cefb1c5",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jay_Jagannath_MOB/WDVLive/index.mpd",
@@ -11,14 +11,117 @@
     "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
   },
 
-#EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png" group-title="Odia", Star Kiran
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0d9b350a9ef5ed9b97cfb6896565df3:aa6794d8a49f39eccb6a4fe45bf1eadc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Kiran_MOB/WDVLive/index.mpd
+{
+    "id": "3267",
+    "key": "aa6794d8a49f39eccb6a4fe45bf1eadc",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Kiran_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png",
+    "name": "Star Kiran",
+    "keyId": "b0d9b350a9ef5ed9b97cfb6896565df3",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
 
+{
+    "id": "1956",
+    "key": "4667c6e2fcb96567effbfe03a3acba05",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_TV_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png",
+    "name": "Sidharth TV",
+    "keyId": "811ed3510cea514f8931aef6b8151d09",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+  {
+    "id": "1957",
+    "key": "a4e3b08b00eb4014869ea56e0a1c2255",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_Gold_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png",
+    "name": "Sidharth Gold",
+    "keyId": "a980af6d87895a34911a8568c1534215",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+  {
+    "id": "1958",
+    "key": "83a6a167852a2c470dbb33c4315d21f7",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_Bhakti_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png",
+    "name": "Sidharth Bhakti",
+    "keyId": "d078e1e541175c12ad83fb63ea5bd1ac",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+{
+    "id": "722",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeSarthak_BTS/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png",
+    "name": "Zee Sarthak",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793680528~exp=1793702128~acl=/bpk-tv/ZeeSarthak_BTS/WDVLive/*~hmac=20b766ca26ef2840b32af01eada7bb419062a205aec12ec931b75d4d9ccf53a3",
+    "all_keys": "eb5d178bac8a5b64a7f6629afbaaf34e:86b6a7a99fd3f7bfff7936c266ae4ddd,63cf3ff042015432aeec3caa896ea29c:beae91049b9b0debd2555780d06c490a,6a2cf41a3c9e5238af1d8f4045ed5f76:516173fa4006f4f1ca6f640771483974,7f50d95f9e4058c8b250737458522ece:9b43fda55d544562766404bc4f477982,ae4cfc94c73255208c15037e2054ef01:5080470ea272b36b05630be522c2f2e7"
+  },
+{
+    "id": "631",
+    "key": "c3e3e0d6ef18c043fbb172786606937b",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MBC_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png",
+    "name": "MBC",
+    "keyId": "456cd7010210568a88fe23e2db19262e",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+{
+    "id": "1481",
+    "key": "840cf3aaa168b8d12016ee731e1db31e",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Argus_TV_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png",
+    "name": "Argus News",
+    "keyId": "7c694c8e996d59aea878aff77e2082e7",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+{
+    "id": "781",
+    "key": "f063cce293bf2986c60f7cdace007082",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kalinga_TV_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png",
+    "name": "Kalinga TV",
+    "keyId": "a0fe9baabcd75897b907c255f6afece0",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+{
+    "id": "718",
+    "key": "null",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kanak_TV_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png",
+    "name": "Kanak News",
+    "keyId": "null",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+{
+    "id": "1427",
+    "key": "1f95f36123e7e9a77c9b18a06ee4448c",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nandighosha_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png",
+    "name": "Nandighosha",
+    "keyId": "052b654d12d25f8abf9e4f0066706a80",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  },
+{
+    "id": "1692",
+    "key": "f215591c2c730589163c0e6e64664c83",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Badakhabar_MOB/WDVLive/index.mpd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png",
+    "name": "Badakhabar",
+    "keyId": "ad40081fcaa85447a758a2baf4d324a6",
+    "category": "Odia",
+    "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
+  }
+]
 
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/jZ3yYCyr/Prarthana-Life.png",Prarthana TV
 https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
@@ -27,98 +130,20 @@ https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Odia_NW18.png",New18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="1956" tvg-name="Sidharth TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Odia", Sidharth TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=811ed3510cea514f8931aef6b8151d09:4667c6e2fcb96567effbfe03a3acba05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_TV_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="1957" tvg-name="Sidharth Gold" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="Odia", Sidharth Gold
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a980af6d87895a34911a8568c1534215:a4e3b08b00eb4014869ea56e0a1c2255
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_Gold_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="1958" tvg-name="Sidharth Bhakti" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Odia", Sidharth Bhakti
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d078e1e541175c12ad83fb63ea5bd1ac:83a6a167852a2c470dbb33c4315d21f7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_Bhakti_MOB/WDVLive/index.mpd
-
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/Qvf7T53G/TARANG-TV.jpg",Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="zee5-26" tvg-name="Zee Sarthak" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" tvg-category="Entertainment" tvg-language="Odia" group-title="ZEE5 India" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsnF1LQ0Uhz_QggJDymvPgdYGQ4CtZYB33E6DPOy-XZFfXl5e7oeUhJ0&s=10" type="dash",Zee Sarthak
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd
 
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/8D6dy7sH/Alankar.webp",Alankar TV
 https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="631" tvg-name="MBC" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=456cd7010210568a88fe23e2db19262e:c3e3e0d6ef18c043fbb172786606937b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/MBC_MOB/WDVLive/index.mpd
-
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/JFj6YGnq/Tarang-Music.png",Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="1481" tvg-name="Argus News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia", Argus News
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c694c8e996d59aea878aff77e2082e7:840cf3aaa168b8d12016ee731e1db31e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Argus_TV_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="781" tvg-name="Kalinga TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Odia", Kalinga TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0fe9baabcd75897b907c255f6afece0:f063cce293bf2986c60f7cdace007082
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Kalinga_TV_MOB/WDVLive/index.mpd
-
 
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/v6pVRwpg/DD-Oriya.png",DD Odia
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 
-#EXTINF:-1 tvg-id="718" tvg-name="Kanak News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Kanak_TV_MOB/WDVLive/index.mpd
-
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/kgjn9cqw/Prameya-News-7.png",Prameya News 7
 https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="1427" tvg-name="Nandighosha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia", Nandighosha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052b654d12d25f8abf9e4f0066706a80:1f95f36123e7e9a77c9b18a06ee4448c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nandighosha_MOB/WDVLive/index.mpd
-
-
-#EXTINF:-1 tvg-id="1692" tvg-name="Badakhabar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia", Badakhabar
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad40081fcaa85447a758a2baf4d324a6:f215591c2c730589163c0e6e64664c83
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793359988~exp=1793381588~acl=/*~hmac=5ebd485720f31203b46b690ee894747c6a95cddd4091f6fb65543ca666c45baa"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Badakhabar_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/WWRKNMh9/Screenshot-2025-12-19-161302.png",STV
 https://amigofx.com:1936/stv/stv/chunklist_w305533562.m3u8
