@@ -1,5 +1,5 @@
 #EXTM3U
-
+[
 {
     "id": "3115",
     "key": "417cb4b124ad28ceb1fe6a0d7cefb1c5",
@@ -9,8 +9,8 @@
     "keyId": "52583c0857a657dabc597df28371f9eb",
     "category": "Odia",
     "cookie": "__hdnea__=st=1793648271~exp=1793734671~acl=/*~hmac=f6eb2c5e759152f1d5997b99c8cfe47f460ccf6606700a14245e2a100a5b015d"
-  },
-
+  }
+]
 
 #EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png" group-title="Odia", Star Kiran
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
